@@ -65,6 +65,6 @@ As a teaching assistant (TA) for the Data Mine's first-year course, I addressed 
 *West Lafayette, IN*  
 As an Undergraduate Research Assistant for the EAPS department at Purdue, our team collected pollution data using sensors on Purdue's campus. We analyzed the collected data to obtain insights and visualized the information using heat maps, trend graphs, and pressure maps, among others.
 
-### More About Me
+[More About Me](./more)
 
 ### What I Use
