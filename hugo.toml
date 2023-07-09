@@ -1,0 +1,58 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "PrameyKabra"
+description = "Hi! I'm Pramey, a senior at Purdue University majoring in Computer Science and Data Science with a minor in Economics. My concentrations are Machine Intelligence and Database Systems. I'm the Head Teaching Assistant for seminar courses at The Data Mine at Purdue. I'm currently interning at Zylo."
+keywords = [
+  "Portfolio",
+  "Data Science",
+  "Computer Science",
+  "Purdue University"
+]
+author = "Pramey Kabra"
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowBreadCrumbs = true
+
+  [params.label]
+  text = "Pramey Kabra"
+
+  [params.homeInfoParams]
+  Title = "Welcome! 👋"
+  Content = "Hi! My name is Pramey Kabra, and I'm a senior at Purdue University majoring in Computer Science and Data Science with a minor in Economics. My concentrations are Machine Intelligence and Database Systems."
+  Content2 = "I'm the Head Teaching Assistant for [The Data Mine](https://datamine.purdue.edu/) at Purdue."
+  Content3 = "I'm currently interning in the Platform team at [Zylo](https://zylo.com) this summer."
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/kabrap/"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/kabrap"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 2
