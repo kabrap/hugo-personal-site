@@ -27,6 +27,7 @@ DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowBreadCrumbs = true
+hideFooter = true
 
   [params.label]
   text = "Pramey Kabra"
