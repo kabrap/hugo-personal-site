@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kabra.github.io/hugo-personal-site/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Pramey Kabra'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -37,6 +37,10 @@ hideFooter = true
   Content = "Hi! My name is Pramey Kabra, and I'm a senior at Purdue University majoring in Computer Science and Data Science with a minor in Economics. My concentrations are Machine Intelligence and Database Systems."
   Content2 = "I'm the Head Teaching Assistant for [The Data Mine](https://datamine.purdue.edu/) at Purdue."
   Content3 = "I'm currently interning in the Platform team at [Zylo](https://zylo.com) this summer."
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:kabrapramey@gmail.com"
 
   [[params.socialIcons]]
   name = "linkedin"
