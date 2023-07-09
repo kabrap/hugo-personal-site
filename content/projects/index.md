@@ -13,15 +13,15 @@ showtoc: false
 draft: false
 ---
 
-**June 2023** | **Present**  
+> **June 2023** | **Present**  
 **Personal Website**  
 **[GitHub Repository](https://github.com/kabrap/hugo-personal-site/)**  
 *You are here!*  
-Made using Hugo (and the open source community's help), this project is my personal corner of the internet. I will be gradually *and randomly* adding bits and pieces of my life here.
+Made using Hugo (and the PaperMod theme), this project is my personal corner of the internet. I will be gradually *and randomly* adding bits and pieces of my life here.
 
-**May 2022** | **Present**  
+> **May 2022** | **Present**  
 **Bracket-Gen**  
-**GitHub Repository**
+**GitHub Repository**  
 **Tools used: Node.js, Express, MongoDB**   
 *A prediction reinforcement learning model*  
 Currently working on a full-stack project using Python and React predicting brackets for March Madness Tournaments from historical data. The project consisted of head-to-head team analysis based on past performance meeting minimum requirement score post-normalization. To provide more accurate prediction, I web scraped 12 additional factors using Selenium to obtain more data for classification. Created a random forest classifier to make 72% accurate predictions on validation data.
@@ -33,7 +33,7 @@ Currently working on a full-stack project using Python and React predicting brac
 Created a web application using the MERN stack for Purdue's [CS 307](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs307.html) course across a semester, following industry standard principles. AllPurdue caters to Purdue students and visitors and provides a feature-rich website to get information and recommendations for food, living, and study spots on campus - refined for a better experience from verified students and business. I created the database schemas and models with defined roles and permissions for users/admins and bulk of backend API for quick retrieval from database.
 
 **Apr 2022** | **May 2022**  
-**Library Management System**
-**GitHub Repository**    
+**Library Management System**  
+**GitHub Repository**   
 **Tools used: SQLite, Python, HTML, CSS, Flask**  
 Created a web application to store and retrieve library information from an SQLite database using ORMs and Prepared Statements. Used Python's Flask library to create an interactive and user-friendly library management system.

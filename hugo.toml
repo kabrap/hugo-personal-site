@@ -36,10 +36,10 @@ hideFooter = true
   Title = "Welcome! 👋"
   Content = "Hi! My name is Pramey Kabra, and I'm a senior at Purdue University majoring in Computer Science and Data Science with a minor in Economics. My concentrations are Machine Intelligence and Database Systems."
   Content2 = "I'm the Head Teaching Assistant for [The Data Mine](https://datamine.purdue.edu/) at Purdue."
-  Content3 = "I'm currently interning in the Platform team at [Zylo](https://zylo.com) this summer."
+  Content3 = "I'm currently interning in the Platform team at [Zylo](https://zylo.com)."
 
   [[params.socialIcons]]
-  name = "email"
+  name = "kabrapramey@gmail.com"
   url = "mailto:kabrapramey@gmail.com"
 
   [[params.socialIcons]]
