@@ -45,15 +45,13 @@ As a software engineering intern in the Trading Development team at A360, I work
 *West Lafayette, IN*  
 Acting as the TA for the [PlaneEnglish Corporate Partners team](https://datamine.purdue.edu/corporate/planeenglish/) at Purdue, I guided and assisted the student team in upgrading a Text-to-Speech Model for PlaneEnglish's ARSim application. This project introduced me to the Agile methodology and the use of research computing. The team successfully created two TTS models based on Mozilla's TacoTron and Microsoft's FastSpeech2 models to obtain high-quality speech output.
 
-**Aug 2021** <br> | <br> **May 2022**
-
+**Aug 2021** <br> | <br> **May 2022**  
 **Teaching Assistant**  
 **[The Data Mine - Purdue University](https://datamine.purdue.edu/)**  
 *West Lafayette, IN*  
 As a teaching assistant (TA) for the Data Mine's first-year course, I addressed doubts on weekly Python and R projects by holding office hours and graded student submissions using Gradescope.
 
-**Sep 2020** <br> | <br> **May 2021**
-
+**Sep 2020** <br> | <br> **May 2021**  
 **Research Assistant**  
 **[EAPS Department - Purdue University](https://www.eaps.purdue.edu/)**  
 *West Lafayette, IN*  
