@@ -1,16 +1,7 @@
 ---
-title: "More"
-slug: more
-category:
-summary:
-description: 
-cover:
-  image:
-  alt:
-  caption: 
-  relative: true
-showtoc: false
-draft: true
+title: "More About Me"
+url: "more"
+description: "More About Me"
 ---
 
 ## Stuff

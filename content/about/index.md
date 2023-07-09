@@ -17,8 +17,9 @@ I’m the Head Teaching Assistant for [The Data Mine](https://datamine.purdue.ed
 
 I’m currently interning in the Platform team at [Zylo](https://zylo.com/).
 
-I will be graduating from Purdue in [May 2024](https://www.tickcounter.com/countdown/4277668/pks-graduation) with a BS in Computer Science and BS in Statistics (Data Science) and a minor in Economics.
+I will graduate from Purdue in [May 2024](https://www.tickcounter.com/countdown/4277668/pks-graduation) with a BS in Computer Science and BS in Statistics (Data Science) and a minor in Economics.
 
+---
 ### Experience
 
 > **Aug. 2023**  
@@ -42,29 +43,37 @@ As the Head TA for the Data Mine's Seminar courses [TDM 10100-40200](https://rb.
 
 **May 2022** <br> | <br> **Aug. 2022**  
 **Software Engineering Intern**  
-**[Advisor360](https://advisor360.com)**  
-*Weston, MA*  
-As a software engineering intern in the Trading Development team at A360, I worked on fixing performance bugs found in SonarQube linting, creating data-access layers and proxy services for auth controllers, and upgraded SSO from web application to third-party applications to SAML2 standards. I also learned how to use various tools such as kanban boards, version control systems, CI/CD pipelines, event logging, and other technologies used in the software development process.
+*[Advisor360](https://advisor360.com)* | *Weston, MA* 
+<br> 
+As a software engineering intern in the Trading Development team at A360, I worked on fixing performance bugs found in SonarQube linting, creating data-access layers and proxy services for auth controllers, and upgraded SSO from web application to third-party applications to SAML2 standards. I also learned how to use various tools such as kanban boards, version control systems, CI/CD pipelines, event logging, and other technologies used in the software development process.  
 
-**Sep 2021** <br> | <br> **May 2022**  
+---
+
+Sep. 2021 | May 2022   
 **Data Science Researcher**  
 **[The Data Mine - Purdue University](https://datamine.purdue.edu/)**  
 ***[Final Presentation](https://datamine.purdue.edu/corporate/planeenglish/)***  
 *West Lafayette, IN*  
 Acting as the TA for the [PlaneEnglish](https://planeenglishsim.com/) Corporate Partners team at Purdue, I guided and assisted the student team in upgrading a Text-to-Speech Model for PlaneEnglish's ARSim application. This project introduced me to the Agile methodology and the use of research computing. The team successfully created two TTS models based on Mozilla's TacoTron and Microsoft's FastSpeech2 models to obtain high-quality speech output.
 
-**Aug. 2021** <br> | <br> **May 2022**  
+---
+
+Aug. 2021 | May 2022  
 **Teaching Assistant**  
 **[The Data Mine - Purdue University](https://datamine.purdue.edu/)**  
 *West Lafayette, IN*  
 As a teaching assistant (TA) for the Data Mine's first-year course, I addressed doubts on weekly Python and R projects by holding office hours and graded student submissions using Gradescope.
 
-**Sep 2020** <br> | <br> **May 2021**  
+---
+
+Sep. 2020 | May 2021  
 **Research Assistant**  
-**[EAPS Department - Purdue University](https://www.eaps.purdue.edu/)**  
-*West Lafayette, IN*  
-As an Undergraduate Research Assistant for the EAPS department at Purdue, our team collected pollution data using sensors on Purdue's campus. We analyzed the collected data to obtain insights and visualized the information using heat maps, trend graphs, and pressure maps, among others.
+*[EAPS Department - Purdue University](https://www.eaps.purdue.edu/)* | *West Lafayette, IN*  
+<br>  
+As an Undergraduate Research Assistant for the EAPS department at Purdue, our team collected pollution data using sensors on Purdue's campus. We analyzed the collected data to obtain insights and visualized the information using heat maps, trend graphs, and pressure maps, among others.  
 
-[More About Me](./more)
+---
+[More About Me](./more/)
 
-### What I Use
+[What I Use](./uses/)
+
