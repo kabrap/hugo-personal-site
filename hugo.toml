@@ -14,8 +14,8 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "PrameyKabra"
-description = "Hi! I'm Pramey, a senior at Purdue University majoring in Computer Science and Data Science with a minor in Economics. My concentrations are Machine Intelligence and Database Systems. I'm the Head Teaching Assistant for seminar courses at The Data Mine at Purdue. I'm currently interning at Zylo."
+title = "Pramey Kabra"
+description = "Hi! I'm Pramey Kabra, a senior at Purdue University majoring in Computer Science and Data Science with a minor in Economics. My concentrations are Machine Intelligence and Database Systems. I'm the Head Teaching Assistant for seminar courses at The Data Mine at Purdue. I'm currently interning at Zylo."
 keywords = [
   "Portfolio",
   "Data Science",
