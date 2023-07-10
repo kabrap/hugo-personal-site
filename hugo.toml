@@ -1,4 +1,4 @@
-baseURL = 'https://kabra.github.io/hugo-personal-site/'
+baseURL = 'https://prameykabra.me/'
 languageCode = 'en-us'
 title = 'Pramey Kabra'
 theme = 'PaperMod'
@@ -37,6 +37,7 @@ hideFooter = true
   Content = "Hi! My name is Pramey Kabra, and I'm a senior at Purdue University majoring in Computer Science and Data Science with a minor in Economics. My concentrations are Machine Intelligence and Database Systems."
   Content2 = "I'm the Head Teaching Assistant for [The Data Mine](https://datamine.purdue.edu/) at Purdue."
   Content3 = "I'm currently interning in the Platform team at [Zylo](https://zylo.com)."
+  Content4 = "Please reach out to me at [kabrapramey@gmail.com](mailto:kabrapramey@gmail.com)."
 
   [[params.socialIcons]]
   name = "kabrapramey@gmail.com"

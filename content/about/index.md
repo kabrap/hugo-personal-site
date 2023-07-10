@@ -20,14 +20,14 @@ I’m the Head Teaching Assistant for [The Data Mine](https://datamine.purdue.ed
 
 I’m currently interning in the Platform team at [Zylo](https://zylo.com/) as a Software Engineering Intern.
 
-I will join [RCAC](https://www.rcac.purdue.edu/) as a NSF Undergraduate Researcher in August.
+I will join [Rosen Center for Advanced Computing - Purdue](https://www.rcac.purdue.edu/) as a NSF Undergraduate Researcher in August.
 
 I will graduate from Purdue in [May 2024](https://www.tickcounter.com/countdown/4277668/pks-graduation) with a BS in Computer Science and BS in Statistics (Data Science) and a minor in Economics.
 
 ---
 ### Experience
 
-> *Aug. 2023*  
+> *Aug. 2023* | *May 2024*  
 **NSF Undergraduate Researcher**  
 *[National Science Foundation](https://www.nsf.gov/), [RCAC](https://www.rcac.purdue.edu/)* | *West Lafayette, IN*   
 <br>  
@@ -83,8 +83,8 @@ Sep. 2020 | May 2021
 <br>  
 As an Undergraduate Research Assistant for the EAPS department at Purdue, our team collected pollution data using sensors on Purdue's campus. We analyzed the collected data to obtain insights and visualized the information using heat maps, trend graphs, and pressure maps, among others.  
 
-<!-- ---
-[More About Me](./more/)
+---
 
-[What I Use](./uses/)
- -->
+[More About Me](../more/)
+
+[What I Use](../uses/)
