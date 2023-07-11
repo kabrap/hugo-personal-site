@@ -14,7 +14,7 @@ showtoc: false
 draft: false
 ---
 
-Here are the desktop apps I use *almost* everyday
+Here are the desktop apps I use everyday
 
 - [1Password](https://1password.com)
 - Apple [Calendar](https://www.icloud.com/calendar) & [Reminders](https://www.icloud.com/reminders)
@@ -26,4 +26,4 @@ Here are the desktop apps I use *almost* everyday
 - [Overleaf](https://www.overleaf.com/)
 - [Spotify](https://www.spotify.com/)
 - [Tot](https://tot.rocks/)
-- [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
+- [VS Code](https://code.visualstudio.com/)

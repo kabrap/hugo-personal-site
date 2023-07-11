@@ -64,7 +64,7 @@ Sep. 2021 | May 2022
 **Data Science Researcher**  
 *[The Data Mine - Purdue University](https://datamine.purdue.edu/)* | *West Lafayette, IN*   
 <br>  
-Acting as the TA for the [PlaneEnglish](https://planeenglishsim.com/) Corporate Partners team at Purdue, I guided and assisted the student team in upgrading a Text-to-Speech Model for PlaneEnglish's ARSim application. This project introduced me to the Agile methodology and the use of research computing. The team successfully created two TTS models based on Mozilla's TacoTron and Microsoft's FastSpeech2 models to obtain high-quality speech output.
+Acting as the TA for the [PlaneEnglish](https://planeenglishsim.com/) Corporate Partners team at Purdue, I guided and assisted the student team in upgrading a Text-to-Speech Model for PlaneEnglish's ARSim application. This project introduced me to the Agile methodology and the use of research computing. The team successfully created two TTS models based on Mozilla's TacoTron and Microsoft's FastSpeech2 models to obtain high-quality speech output.  
 ***[Final Presentation](https://datamine.purdue.edu/corporate/planeenglish/)***
 
 ---
