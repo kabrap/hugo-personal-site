@@ -31,6 +31,7 @@ I will graduate from Purdue in [May 2024](https://www.tickcounter.com/countdown/
 **NSF Undergraduate Researcher**  
 *[National Science Foundation](https://www.nsf.gov/), [RCAC](https://www.rcac.purdue.edu/)* | *West Lafayette, IN*   
 <br>  
+
 Optimizing spatial intersection operations of NOAA's GeoJSON dataset containing over 9 million records with spatial flood inundation maps for 400 dams to conduct social vulnerability analysis of aging dam infrastructure using Parquet and Apache Spark
 
 ---
@@ -39,8 +40,9 @@ Optimizing spatial intersection operations of NOAA's GeoJSON dataset containing 
 **Software Engineering Intern**  
 *[Zylo](https://zylo.com)* | *Indianapolis, IN*   
 <br>   
+
 Currently interning in the Platform team at Zylo which works to maintain the core architecture and improve performance of the Zylo application.  
-<!-- In the Platform team, I created platform user archival and unarchival features using Node.js and created test suites with Mocha. I also implemented a key data clarity feature for clients which consisted of setting up an AWS cloudwatch listner and an eventbridge that trigger a lambda to update the status for nightly integration runs. In addition, I worked on 2 P1 and 4 P2 critical security vulenrability tickets found in annual pentest. -->
+<!-- In the Platform team, I created platform user archival and un-archival features using Node.js and created test suites with Mocha. I also implemented a key data clarity feature for clients which consisted of setting up an AWS cloudwatch listener and an EventBridge that trigger a lambda to update the status for nightly integration runs. In addition, I worked on 2 P1 and 4 P2 critical security vulnerability tickets found in annual penetration test. -->
 
 ---
 
@@ -48,6 +50,7 @@ Currently interning in the Platform team at Zylo which works to maintain the cor
 **Head Teaching Assistant**   
 *[The Data Mine - Purdue University](https://datamine.purdue.edu/)* | *West Lafayette, IN*   
 <br>  
+
 As the Head TA for the Data Mine's Seminar courses [TDM 10100-40200](https://rb.gy/x3gki), I supervise a team of 40 undergraduate TA's and train them with the necessary tools to provide the best assistance for 1200+ students in the Data Mine. I also create weekly projects in Python and R and create the respective grading rubrics. In addition, I work with 4 grading teams for the different project levels and hold weekly office hours for the students.
 
 ---
@@ -56,7 +59,7 @@ May 2022 | Aug. 2022
 **Software Engineering Intern**   
 *[Advisor360](https://advisor360.com)* | *Weston, MA*  
 <br>  
-As a software engineering intern in the Trading Development team at A360, I worked on fixing performance bugs found in SonarQube linting, creating data-access layers and proxy services for auth controllers, and upgraded SSO from web application to third-party applications to SAML2 standards. I also learned how to use various tools such as kanban boards, version control systems, CI/CD pipelines, event logging, and other technologies used in the software development process.  
+As a software engineering intern in the Trading Development team at A360, I worked on fixing performance bugs found in SonarQube linting, creating data-access layers and proxy services for auth controllers, and upgraded SSO from web application to third-party applications to SAML2 standards. I also learned how to use tools such as Kanban boards, version control systems, CI/CD pipelines, event logging, and other technologies used in the software development process.  
 
 ---
 

@@ -50,6 +50,6 @@ Apr 2022 | May 2022
 **Library Management System**  
 <!-- [GitHub Repository]()    -->
 **Tools used:** *SQLite, Python, HTML, CSS, Flask*  
-*An admin-based library managemnt web-application for local libraries*  
+*An admin-based library management web-application for local libraries*  
 <br>  
 Created a web application for Purdue's [CS 348](https://www.cs.purdue.edu/academic-programs/courses/canonical/cs348.html) course to store and retrieve library information from an SQLite database using ORMs and Prepared Statements. Used Python's Flask library to create an interactive and user-friendly library management system.
