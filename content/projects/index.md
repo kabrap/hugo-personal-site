@@ -17,8 +17,8 @@ This is a list of my side projects, some currently active.
 
 ---
 > June 2023 | *Present*  
-**Personal Website**
-[GitHub Repository](https://github.com/kabrap/hugo-personal-site/)
+**Personal Website**  
+[GitHub Repository](https://github.com/kabrap/hugo-personal-site/)  
 **Technologies used:** [Hugo](https://gohugo.io) + [PaperMod](https://github.com/adityatelange/hugo-PaperMod/)  
 *You are here!*  
 <br>  
