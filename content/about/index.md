@@ -24,6 +24,8 @@ I will join [Rosen Center for Advanced Computing - Purdue](https://www.rcac.purd
 
 I will graduate from Purdue in [May 2024](https://www.tickcounter.com/countdown/4277668/pks-graduation) with a BS in Computer Science and BS in Statistics (Data Science) and a minor in Economics.
 
+[Resume](/Pramey_Kabra_Resume.pdf)
+
 ---
 ### Experience
 
