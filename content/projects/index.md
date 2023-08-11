@@ -39,7 +39,10 @@ Currently working on a full-stack project using Python and React predicting brac
 
 Jan 2023 | May 2023  
 **AllPurdue**  
-<!-- [GitHub Repository]()    -->
+[GitHub Repository](https://github.com/kabrap/allpurdue/)
+
+![AllPurdue Homepage](/allpurdue_home.png)
+
 **Technologies used:** *Node.js, Express, MongoDB*  
 *A web-application to introduce Purdue freshmen and visitors to the campus*  
 <br>   
