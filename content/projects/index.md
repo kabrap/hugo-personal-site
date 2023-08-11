@@ -52,7 +52,10 @@ Created a web application using the MERN stack for Purdue's [CS 307](https://www
 
 Apr 2022 | May 2022   
 **Library Management System**  
-<!-- [GitHub Repository]()    -->
+[GitHub Repository](https://github.com/CS348-GroupProject/CS348-Group-Project)
+
+![Library Management System Homepage](/library_management_home.png)
+
 **Technologies used:** *SQLite, Python, HTML, CSS, Flask*  
 *An admin-based library management web-application for local libraries*  
 <br>  
