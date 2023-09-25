@@ -17,8 +17,9 @@ minifyOutput = true
 [params]
 env = "production"
 title = "Pramey Kabra"
-description = "Hi! I'm Pramey Kabra, a senior at Purdue University majoring in Computer Science and Data Science with a minor in Economics. My concentrations are Machine Intelligence and Database Systems. I'm the Head Teaching Assistant for seminar courses at The Data Mine at Purdue. I'm currently interning at Zylo."
+description = "Hi! I'm Pramey Kabra, a senior at Purdue University majoring in Computer Science and Data Science with a minor in Economics. My concentrations are Machine Intelligence and Database Systems. I'm the Head Teaching Assistant for seminar courses at The Data Mine at Purdue. I'm currently working on a NSF-funded research project with I-Guide at Rosen Center for Advanced Computing at Purdue."
 keywords = [
+  "Pramey Kabra",
   "Portfolio",
   "Data Science",
   "Computer Science",
@@ -38,7 +39,7 @@ hideFooter = false
   Title = "Welcome! 👋"
   Content = "Hi! My name is Pramey Kabra, and I'm a senior at Purdue University majoring in Computer Science and Data Science with a minor in Economics. My concentrations are Machine Intelligence and Database Systems."
   Content2 = "I'm the Head Teaching Assistant for [The Data Mine](https://datamine.purdue.edu/) at Purdue."
-  Content3 = "I'm currently interning in the Platform team at [Zylo](https://zylo.com)."
+  Content3 = "I'm currently working on a NSF-funded research project with [I-Guide](https://iguide.illinois.edu/) at UIUC and [Rosen Center for Advanced Computing](https://www.rcac.purdue.edu/) at Purdue."
   Content4 = "Please reach out to me at [kabrapramey@gmail.com](mailto:kabrapramey@gmail.com)."
 
   [[params.socialIcons]]
