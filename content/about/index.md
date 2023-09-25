@@ -18,9 +18,7 @@ draft: false
 
 I’m the Head Teaching Assistant for [The Data Mine](https://datamine.purdue.edu/) at Purdue.
 
-I’m currently interning in the Platform team at [Zylo](https://zylo.com/) as a Software Engineering Intern.
-
-I will join [Rosen Center for Advanced Computing - Purdue](https://www.rcac.purdue.edu/) as a NSF Undergraduate Researcher in August.
+I'm currently working on a NSF-funded research project with [I-Guide](https://iguide.illinois.edu/) at UIUC and [Rosen Center for Advanced Computing](https://www.rcac.purdue.edu/) at Purdue.
 
 I will graduate from Purdue in [May 2024](https://www.tickcounter.com/countdown/4277668/pks-graduation) with a BS in Computer Science and BS in Statistics (Data Science) and a minor in Economics.
 
@@ -34,7 +32,7 @@ I will graduate from Purdue in [May 2024](https://www.tickcounter.com/countdown/
 *[National Science Foundation](https://www.nsf.gov/), [RCAC](https://www.rcac.purdue.edu/)* | *West Lafayette, IN*   
 <br>  
 
-Optimizing spatial intersection operations of NOAA's GeoJSON dataset containing over 9 million records with spatial flood inundation maps for 400 dams to conduct social vulnerability analysis of aging dam infrastructure using Parquet and Apache Spark
+I worked to optimize spatial intersection operations of NOAA's GeoJSON dataset containing over 9 million records of block-level census data with spatial flood inundation maps for 400 dams using GeoParquet. The optimized codebase was executed using Apache Spark job queues on Purdue's Anvil High-performance Computing cluster with Dask library to enable ease of processing.
 
 ---
 
@@ -43,8 +41,7 @@ Optimizing spatial intersection operations of NOAA's GeoJSON dataset containing 
 *[Zylo](https://zylo.com)* | *Indianapolis, IN*   
 <br>   
 
-Currently interning in the Platform team at Zylo which works to maintain the core architecture and improve performance of the Zylo application.  
-<!-- In the Platform team, I created platform user archival and un-archival features using Node.js and created test suites with Mocha. I also implemented a key data clarity feature for clients which consisted of setting up an AWS cloudwatch listener and an EventBridge that trigger a lambda to update the status for nightly integration runs. In addition, I worked on 2 P1 and 4 P2 critical security vulnerability tickets found in annual penetration test. -->
+In the Platform team, I worked on 2 P1 and 3 P2 critical security vulnerability tickets found in annual penetration test. I also implemented a key data clarity feature for clients which consisted of setting up an AWS EventBridge with filter rules that trigger a lambda function to update the status for nightly integration runs. In addition, I created platform user archival and un-archival features using Node.js and created test suites with Mocha. 
 
 ---
 
