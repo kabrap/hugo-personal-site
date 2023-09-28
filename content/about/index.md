@@ -18,7 +18,7 @@ draft: false
 
 I’m the Head Teaching Assistant for [The Data Mine](https://datamine.purdue.edu/) at Purdue.
 
-I'm currently working on a NSF-funded research project with [I-Guide](https://iguide.illinois.edu/) at UIUC and [Rosen Center for Advanced Computing](https://www.rcac.purdue.edu/) at Purdue.
+I'm currently working on a NSF-funded research project with [I-Guide](https://iguide.illinois.edu/) at University of Illinois Urbana-Champaign and [Rosen Center for Advanced Computing](https://www.rcac.purdue.edu/) at Purdue University.
 
 I will graduate from Purdue in [May 2024](https://www.tickcounter.com/countdown/4277668/pks-graduation) with a BS in Computer Science and BS in Statistics (Data Science) and a minor in Economics.
 
