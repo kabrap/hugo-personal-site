@@ -90,3 +90,5 @@ As an Undergraduate Research Assistant for the EAPS department at Purdue, our te
 [More About Me](../more/)
 
 [What I Use](../uses/)
+
+[Some Bookmarks](../bookmarks/)
