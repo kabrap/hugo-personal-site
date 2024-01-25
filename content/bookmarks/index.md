@@ -17,4 +17,14 @@ draft: false
 Some bookmarks, curated from the ever-growing web
 
 - [Mechanical Watch - Bartosz Ciechanowski](https://ciechanow.ski/mechanical-watch/)
+- [Just for Fun - Creative Coding](https://justforfun.io/)
 - [spacetypegenerator](https://spacetypegenerator.com)
+- [verto.sh](https://www.verto.sh/)  
+
+- [Seeing Theory](https://seeing-theory.brown.edu/)  
+
+- [Using Apple Reminders for GTD](https://decoding.io/2022/09/using-apple-reminders-for-gtd/)
+- [PoC||GTFO](https://www.sultanik.com/pocorgtfo/pocorgtfo18.pdf)
+- [Recommended Books](https://achievement.org/recommended-books/)  
+
+- [radiooooo](https://radiooooo.com/) 
