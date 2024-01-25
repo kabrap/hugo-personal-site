@@ -16,8 +16,8 @@ draft: false
 
 Some bookmarks, curated from the ever-growing web
 
-- [Mechanical Watch - Bartosz Ciechanowski](https://ciechanow.ski/mechanical-watch/)
-- [Just for Fun - Creative Coding](https://justforfun.io/)
+- [Mechanical Watch](https://ciechanow.ski/mechanical-watch/)
+- [Just for Fun](https://justforfun.io/)
 - [spacetypegenerator](https://spacetypegenerator.com)
 - [verto.sh](https://www.verto.sh/)  
 
