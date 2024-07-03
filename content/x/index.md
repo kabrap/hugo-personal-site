@@ -16,6 +16,4 @@ draft: false
 
 x
 
-count: 2
-
-it works. well, here's to another day.
+welp this is abandoned

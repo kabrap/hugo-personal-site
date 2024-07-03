@@ -16,18 +16,23 @@ draft: false
 
 --- -->
 
-I’m the Head Teaching Assistant for [The Data Mine](https://datamine.purdue.edu/) at Purdue.
-
-I'm currently working on a NSF-funded research project with [I-Guide](https://iguide.illinois.edu/) at University of Illinois Urbana-Champaign and [Rosen Center for Advanced Computing](https://www.rcac.purdue.edu/) at Purdue University.
-
-I will graduate from Purdue in [May 2024](https://www.tickcounter.com/countdown/4277668/pks-graduation) with a BS in Computer Science and BS in Statistics (Data Science) and a minor in Economics.
+I’m Pramey Kabra, a graduate of Purdue University with a Bachelor's in Computer Science and Data Science. I am a system engineer at Eli Lilly and Company, working on the Manufacturing & Quality Global Quality Assurance Team. My areas of interest are Machine Intelligence and Database & Information Systems.
 
 [Resume](/Pramey_Kabra_Resume.pdf)
 
 ---
 ### Experience
 
-> *Aug. 2023* | *May 2024*  
+> Jun 2024 | *Present*  
+**System Engineer**  
+*[Eli Lilly and Company](https://www.lilly.com/)* | *Indianapolis, IN*   
+<br>  
+
+I'm working as a System Engineer at Tech at Lilly, in the Manufacturing & Quality Global Quality Assurance Team. My responsibilities include maintenance, improvement and administration of the TrackWise QMS instance used at Lilly.
+
+---
+
+Aug 2023 | May 2024  
 **NSF Undergraduate Researcher**  
 *[National Science Foundation](https://www.nsf.gov/), [RCAC](https://www.rcac.purdue.edu/)* | *West Lafayette, IN*   
 <br>  
@@ -36,7 +41,7 @@ I worked to optimize spatial intersection operations of NOAA's GeoJSON dataset c
 
 ---
 
-> May 2023 | *Aug. 2023*  
+May 2023 | Aug 2023  
 **Software Engineering Intern**  
 *[Zylo](https://zylo.com)* | *Indianapolis, IN*   
 <br>   
@@ -45,7 +50,7 @@ In the Platform team, I worked on 2 P1 and 3 P2 critical security vulnerability 
 
 ---
 
-> Aug. 2022 | *Present*   
+Aug 2022 | May 2024   
 **Head Teaching Assistant**   
 *[The Data Mine - Purdue University](https://datamine.purdue.edu/)* | *West Lafayette, IN*   
 <br>  
@@ -54,7 +59,7 @@ As the Head TA for the Data Mine's Seminar courses [TDM 10100-40200](https://rb.
 
 ---
 
-May 2022 | Aug. 2022   
+May 2022 | Aug 2022   
 **Software Engineering Intern**   
 *[Advisor360](https://advisor360.com)* | *Weston, MA*  
 <br>  
@@ -62,7 +67,7 @@ As a software engineering intern in the Trading Development team at A360, I work
 
 ---
 
-Sep. 2021 | May 2022   
+Sep 2021 | May 2022   
 **Data Science Researcher**  
 *[The Data Mine - Purdue University](https://datamine.purdue.edu/)* | *West Lafayette, IN*   
 <br>  
@@ -71,7 +76,7 @@ Acting as the TA for the [PlaneEnglish](https://planeenglishsim.com/) Corporate 
 
 ---
 
-Aug. 2021 | May 2022  
+Aug 2021 | May 2022  
 **Teaching Assistant**  
 *[The Data Mine - Purdue University](https://datamine.purdue.edu/)* | *West Lafayette, IN*   
 <br>  
@@ -79,7 +84,7 @@ As a teaching assistant (TA) for the Data Mine's first-year course, I addressed 
 
 ---
 
-Sep. 2020 | May 2021  
+Sep 2020 | May 2021  
 **Research Assistant**  
 *[EAPS Department - Purdue University](https://www.eaps.purdue.edu/)* | *West Lafayette, IN*  
 <br>  

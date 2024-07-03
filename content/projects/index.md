@@ -25,17 +25,17 @@ This is a list of my side projects, some currently active.
 <br>  
 This project is my personal corner of the internet. I will be gradually *and randomly* adding bits and pieces of my life here. 
 
----
+--- 
 
-> May 2022 | *Present*  
-**Bracket-Gen**  
+<!-- > May 2022 | *Present*   -->
+<!-- **Bracket-Gen**   -->
 <!-- [GitHub Repository]()    -->
-**Technologies used:** *Node.js, Express, MongoDB*   
-*A prediction reinforcement learning model*  
-<br>  
-Currently working on a full-stack project using Python and React predicting brackets for March Madness Tournaments from historical data. The project consisted of head-to-head team analysis based on past performance meeting minimum requirement score post-normalization. To provide more accurate prediction, I web scraped 12 additional factors using Selenium to obtain more data for classification. Created a random forest classifier to make 72% accurate predictions on validation data.
+<!-- **Technologies used:** *Node.js, Express, MongoDB*    -->
+<!-- *A prediction reinforcement learning model*   -->
+<!-- <br>   -->
+<!-- Currently working on a full-stack project using Python and React predicting brackets for March Madness Tournaments from historical data. The project consisted of head-to-head team analysis based on past performance meeting minimum requirement score post-normalization. To provide more accurate prediction, I web scraped 12 additional factors using Selenium to obtain more data for classification. Created a random forest classifier to make 72% accurate predictions on validation data. -->
 
----
+<!-- --- -->
 
 Jan 2023 | May 2023  
 **AllPurdue**  
