@@ -16,7 +16,7 @@ draft: false
 
 --- -->
 
-I’m Pramey Kabra, a graduate of Purdue University with a Bachelor's in Computer Science and Data Science. I am a system engineer at Eli Lilly and Company, working on the Manufacturing & Quality Global Quality Assurance Team. My areas of interest are Machine Intelligence and Database & Information Systems.
+I’m Pramey Kabra, a graduate of Purdue University with a Bachelor's in Computer Science and Data Science. I am a Systems Engineer at Eli Lilly and Company, working on the Manufacturing & Quality Global Quality Assurance Team. My areas of interest are Machine Intelligence and Database & Information Systems.
 
 [Resume](/Pramey_Kabra_Resume.pdf)
 
@@ -24,11 +24,11 @@ I’m Pramey Kabra, a graduate of Purdue University with a Bachelor's in Compute
 ### Experience
 
 > Jun 2024 | *Present*  
-**System Engineer**  
+**Systems Engineer**  
 *[Eli Lilly and Company](https://www.lilly.com/)* | *Indianapolis, IN*   
 <br>  
 
-I'm working as a System Engineer at Tech at Lilly, in the Manufacturing & Quality Global Quality Assurance Team. My responsibilities include maintenance, improvement and administration of the TrackWise QMS instance used at Lilly.
+I'm working as a Systems Engineer at Tech at Lilly, in the Manufacturing & Quality Global Quality Assurance Team. My responsibilities include maintenance, improvement and administration of the TrackWise QMS instance used at Lilly.
 
 ---
 
