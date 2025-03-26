@@ -38,7 +38,7 @@ hideFooter = false
   [params.homeInfoParams]
   Title = "Welcome! 👋"
   Content = "Hi! I'm Pramey, a graduate of Purdue University with a Bachelor's in Computer Science and Data Science."
-  Content2 = "I am a System Engineer at [Eli Lilly and Company](https://lilly.com/) in the Manufacturing and Quality Global Quality Assurance team in Indianapolis, IN."
+  Content2 = "I am a Systems Engineer at [Eli Lilly and Company](https://lilly.com/) in the Manufacturing and Quality Global Quality Assurance team in Indianapolis, IN."
   Content3 = "If you would like to chat, please reach out to me at [kabrapramey@gmail.com](mailto:kabrapramey@gmail.com)."
 
   [[params.socialIcons]]
